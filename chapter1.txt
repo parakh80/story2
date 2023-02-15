@@ -1,1 +1,2 @@
 this is story2 chapter1 file
+this is newbranch chapter1
